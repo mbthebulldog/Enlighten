@@ -1,0 +1,26 @@
+h1 {
+    align: center;
+    color: #333333;
+    align: center;
+}
+h2 {
+    text-align: center;
+    color: #444444;
+}
+
+a {
+    text-decoration: none;
+    color: #8397ce;
+}
+
+a:hover {
+    color: rgb(158, 210, 255);
+}
+
+a:visited {
+    color: #ae00ce;
+}
+
+#nav {
+    color: #000000;
+}
